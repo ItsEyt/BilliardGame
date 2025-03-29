@@ -4,9 +4,10 @@
 ### **made by**: *Arad Eytan - 318764453*
 ---
 ### **how to run**
-1. drag Billiard.st into the System Browser and choose fileIn entire file
-2. run the following command `PoolTableMorph new`
-3. have fun!
+1. make sure you have [Squeak](https://squeak.org) installed
+2. drag Billiard.st into the System Browser and choose fileIn entire file
+3. run the following command `PoolTableMorph new`
+4. have fun!
 ---
 ### **game instructions**
 move the mouse around the playing table to decide the `angle` of the shot
